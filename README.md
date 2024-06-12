@@ -7,7 +7,7 @@
 - 💬 Ask me anything here related to Web development, Python, HTML, CSS, Javascript.
 - 📫 How to reach me sanathesunshine9693@gmail.com
 - 😄 Pronouns: (She/Her)
-- ⚡ Fun fact:❤️🧋Cold Coffee Addicted 👻❤️
+- ⚡ Fun fact:❤️🧋🌈Coding girl | Computer Science magician | 💻 Problem solver | 💜 Finding beauty in logic👻❤️
 
 
 
