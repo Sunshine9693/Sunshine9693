@@ -1,14 +1,30 @@
-<h3>Hi there,I'm Sana Fatma👋🏻</h3>
-<p>This is the place where i  opensource stuff and break things🤣</p>
+# Hi, I'm Sana 👋
 
-- 👀 I’m currently working on something really cool.😁
-- 🌱 I’m currently learning web devleopment
-- 💞️ I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything here related to Web development, Python, HTML, CSS, Javascript.
-- 📫 How to reach me sanathesunshine9693@gmail.com
-- 😄 Pronouns: (She/Her)
-- ⚡ Fun fact:❤️🧋🌈Coding girl  💜 Finding beauty in logic👻❤️
+🎓 B.Tech CSE | CGPA: 9.0  
+💡 Aspiring AI Researcher | Interested in Intelligent Web Systems  
 
+## 🔍 Research Interests
+- AI in Consumer Behavior
+- Recommendation Systems
+- Intelligent Web Applications
+
+## 🚀 What I'm Working On
+- Learning Python for Data Analysis (NumPy, Pandas)
+- Exploring AI-based Recommendation Systems
+- Building smart web applications
+
+## 💻 Tech Stack
+- Languages: C, Java, Python
+- Web: HTML, CSS, JavaScript, React
+
+## 📂 Featured Projects
+- Intelligent To-Do App (with smart task tracking)
+- Spotify Clone (Dynamic music system)
+- Amazon Clone (UI/UX focused e-commerce)
+- Hostel Allocation System
+
+## 📫 Connect with me
+sanathesunshine9693@gmail.com |  
 
 
 <!---
