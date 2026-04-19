@@ -24,7 +24,7 @@
 - Hostel Allocation System
 
 ## 📫 Connect with me
-sanathesunshine9693@gmail.com |  
+sanathesunshine9693@gmail.com |  www.linkedin.com/in/sana-fatma-a00b49294
 
 
 <!---
