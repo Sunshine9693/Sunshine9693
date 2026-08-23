@@ -1,6 +1,6 @@
 # Hi, I'm Sana 👋
 
-🎓 B.Tech CSE | CGPA: 9.0  
+🎓 B.Tech CSE | CGPA: 8.7  
 💡 Aspiring AI Researcher | Interested in Intelligent Web Systems  
 
 ## 🔍 Research Interests
